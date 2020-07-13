@@ -1,0 +1,13 @@
+E:\StudyPlace\ES\ES\ES.Data\bin\Debug\netcoreapp3.1\ES.Data.deps.json
+E:\StudyPlace\ES\ES\ES.Data\bin\Debug\netcoreapp3.1\ES.Data.dll
+E:\StudyPlace\ES\ES\ES.Data\obj\Debug\netcoreapp3.1\ES.Data.AssemblyInfoInputs.cache
+E:\StudyPlace\ES\ES\ES.Data\obj\Debug\netcoreapp3.1\ES.Data.AssemblyInfo.cs
+E:\StudyPlace\ES\ES\ES.Data\bin\Debug\netcoreapp3.1\ES.Data.runtimeconfig.json
+E:\StudyPlace\ES\ES\ES.Data\bin\Debug\netcoreapp3.1\ES.Data.runtimeconfig.dev.json
+E:\StudyPlace\ES\ES\ES.Data\obj\Debug\netcoreapp3.1\ES.Data.genruntimeconfig.cache
+E:\StudyPlace\ES\ES\ES.Data\bin\Debug\netcoreapp3.1\ES.Data.pdb
+E:\StudyPlace\ES\ES\ES.Data\obj\Debug\netcoreapp3.1\ES.Data.dll
+E:\StudyPlace\ES\ES\ES.Data\obj\Debug\netcoreapp3.1\ES.Data.pdb
+E:\StudyPlace\ES\ES\ES.Data\bin\Debug\netcoreapp3.1\ES.Data.dll.config
+E:\StudyPlace\ES\ES\ES.Data\obj\Debug\netcoreapp3.1\ES.Data.csproj.CoreCompileInputs.cache
+E:\StudyPlace\ES\ES\ES.Data\obj\Debug\netcoreapp3.1\ES.Data.csprojAssemblyReference.cache
