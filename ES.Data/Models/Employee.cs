@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ES.Data.Models
 {
-    public partial class Employee
+    public partial class Employee:BaseEntity
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -14,6 +14,8 @@ namespace ES.Data.Models
         public int Id { get; set; }
 
         public int Company { get; set; }
+
+
 
 
     }

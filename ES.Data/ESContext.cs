@@ -1,21 +1,16 @@
 ﻿using System;
 using System.Configuration;
+using ES.Data.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace ES.Data.Models
+namespace ES.Data
 {
     public partial class ESContext : DbContext
     {
         public ESContext()
         {
         }
-
-        public ESContext(DbContextOptions<ESContext> options)
-            : base(options)
-        {
-        }
-
         public virtual DbSet<Company> Company { get; set; }
         public virtual DbSet<Employee> Employee { get; set; }
         public virtual DbSet<Skill> Skill { get; set; }

@@ -1,0 +1,5 @@
+E:\StudyPlace\ES\ES\bin\Debug\netcoreapp3.1\ES.deps.json
+E:\StudyPlace\ES\ES\bin\Debug\netcoreapp3.1\ES.dll
+E:\StudyPlace\ES\ES\obj\Debug\netcoreapp3.1\ES.csprojAssemblyReference.cache
+E:\StudyPlace\ES\ES\obj\Debug\netcoreapp3.1\ES.AssemblyInfoInputs.cache
+E:\StudyPlace\ES\ES\obj\Debug\netcoreapp3.1\ES.AssemblyInfo.cs
